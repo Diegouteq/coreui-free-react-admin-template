@@ -1,4 +1,4 @@
-# UTEQ Smart Parking — CRUD de Vehículos, Puestos e Historial
+<img width="1241" height="635" alt="image" src="https://github.com/user-attachments/assets/1e0587a9-a860-4cd1-ab66-9d48bd3e9fd6" /># UTEQ Smart Parking — CRUD de Vehículos, Puestos e Historial
 
 Consola administrativa para el caso de estudio **UTEQ Smart Parking**, construida
 sobre la plantilla [CoreUI Free React Admin Template](https://coreui.io/product/free-react-admin-template/)
@@ -47,11 +47,9 @@ estudio, y se reemplazó el logo por el del proyecto (UTEQ Smart Parking).
 
 ## Capturas
 
-> Reemplaza estas rutas por tus propias capturas antes de subir el repo.
-> Guárdalas dentro de una carpeta `docs/` en la raíz del proyecto.
-
-![Listado de vehículos](docs/listado-vehiculos.png)
-![Formulario para agregar vehículo](docs/agregar-vehiculo.png)
+<img width="1243" height="635" alt="Captura de pantalla 2026-08-29 180902" src="https://github.com/user-attachments/assets/e28254f9-056c-4727-863f-50086bdc1a09" />
+<img width="1243" height="635" alt="Captura de pantalla 2026-08-29 180922" src="https://github.com/user-attachments/assets/a5e6e44e-09c8-42c9-bce6-d8f67df464e6" />
+<img width="1241" height="635" alt="Captura de pantalla 2026-08-29 180943" src="https://github.com/user-attachments/assets/15b1670c-0c57-4f02-bf39-40209040d0e4" />
 
 ## Tecnologías
 
