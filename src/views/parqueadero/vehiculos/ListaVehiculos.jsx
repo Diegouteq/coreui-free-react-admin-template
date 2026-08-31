@@ -196,6 +196,7 @@ const ListaVehiculos = () => {
                   <CTableHeaderCell>Placa</CTableHeaderCell>
                   <CTableHeaderCell>Vehículo</CTableHeaderCell>
                   <CTableHeaderCell>Año / color</CTableHeaderCell>
+                  <CTableHeaderCell>Foto del propietario</CTableHeaderCell>
                   <CTableHeaderCell>Propietario</CTableHeaderCell>
                   <CTableHeaderCell>Cédula</CTableHeaderCell>
                   <CTableHeaderCell>Correo</CTableHeaderCell>
@@ -207,7 +208,7 @@ const ListaVehiculos = () => {
               <CTableBody>
                 {vehiculosPaginados.length === 0 ? (
                   <CTableRow>
-                    <CTableDataCell colSpan={9} className="text-center py-4">
+                    <CTableDataCell colSpan={10} className="text-center py-4">
                       No se encontraron vehículos.
                     </CTableDataCell>
                   </CTableRow>
@@ -233,6 +234,15 @@ const ListaVehiculos = () => {
                       <CTableDataCell>
                         {vehiculo.anio}
                         <div className="small text-body-secondary">{vehiculo.color}</div>
+                      </CTableDataCell>
+                      <CTableDataCell>
+                        <img
+                          src={vehiculo.foto_propietario_url}
+                          alt={vehiculo.propietario_nombre}
+                          width="48"
+                          height="48"
+                          style={{ objectFit: 'cover', borderRadius: '50%' }}
+                        />
                       </CTableDataCell>
                       <CTableDataCell>{vehiculo.propietario_nombre}</CTableDataCell>
                       <CTableDataCell>{vehiculo.cedula_enmascarada}</CTableDataCell>

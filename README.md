@@ -35,6 +35,8 @@ Para cada módulo se implementó:
 * Formulario modal para **agregar** y **editar**, con validaciones antes de
   enviar los datos a Supabase (formato de placa, cédula, rangos numéricos,
   campos obligatorios, coherencia entre estado y fechas en Historial, etc.).
+* Inclusión de la **foto del propietario** dentro del registro del vehículo,
+  además de la foto del vehículo y la información del titular.
 * **Eliminar** con modal de confirmación.
 * Mensajes de éxito y error, indicadores de carga (`CSpinner`) y botones
   deshabilitados mientras se guarda, edita o elimina.
@@ -143,8 +145,9 @@ La aplicación queda disponible en `http://localhost:3000`.
 ## Funcionalidad por módulo
 
 ### Vehículos (`/parqueadero/vehiculos`)
-Placa, marca, modelo, año, color, tipo, fotos, y datos del propietario
-(cédula, nombre, correo institucional, estado de autorización).
+Placa, marca, modelo, año, color, tipo, foto del vehículo, foto del propietario,
+ y datos del propietario (cédula, nombre, correo institucional, estado de
+ autorización).
 
 ### Puestos (`/parqueadero/puestos`)
 Código, columna (A-D), número, sensor asociado (RTDB/Firebase), estado
