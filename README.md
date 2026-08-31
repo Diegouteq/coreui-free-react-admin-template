@@ -1,4 +1,4 @@
-<img width="1240" height="634" alt="Captura de pantalla 2026-08-30 193502" src="https://github.com/user-attachments/assets/7787ba2c-13db-40c4-9049-171dbb9276a9" />" UTEQ Smart Parking — CRUD de Vehículos, Puestos e Historial
+<img width="1240" height="634" alt="Captura de pantalla 2026-08-30 193502" src="https://github.com/user-attachments/assets/7787ba2c-13db-40c4-9049-171dbb9276a9" />UTEQ Smart Parking — CRUD de Vehículos, Puestos e Historial
 
 Consola administrativa para el caso de estudio **UTEQ Smart Parking**, construida
 sobre la plantilla [CoreUI Free React Admin Template](https://coreui.io/product/free-react-admin-template/)
