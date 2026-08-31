@@ -1,4 +1,4 @@
-<img width="1241" height="635" alt="image" src="https://github.com/user-attachments/assets/1e0587a9-a860-4cd1-ab66-9d48bd3e9fd6" /># UTEQ Smart Parking — CRUD de Vehículos, Puestos e Historial
+<img width="1241" height="635" alt="image" src="<img width="1240" height="634" alt="Captura de pantalla 2026-08-30 193502" src="https://github.com/user-attachments/assets/7787ba2c-13db-40c4-9049-171dbb9276a9" />" /># UTEQ Smart Parking — CRUD de Vehículos, Puestos e Historial
 
 Consola administrativa para el caso de estudio **UTEQ Smart Parking**, construida
 sobre la plantilla [CoreUI Free React Admin Template](https://coreui.io/product/free-react-admin-template/)
@@ -49,9 +49,9 @@ estudio, y se reemplazó el logo por el del proyecto (UTEQ Smart Parking).
 
 ## Capturas
 
-<img width="1243" height="635" alt="Captura de pantalla 2026-08-29 180902" src="https://github.com/user-attachments/assets/e28254f9-056c-4727-863f-50086bdc1a09" />
-<img width="1243" height="635" alt="Captura de pantalla 2026-08-29 180922" src="https://github.com/user-attachments/assets/a5e6e44e-09c8-42c9-bce6-d8f67df464e6" />
-<img width="1241" height="635" alt="Captura de pantalla 2026-08-29 180943" src="https://github.com/user-attachments/assets/15b1670c-0c57-4f02-bf39-40209040d0e4" />
+<img width="1243" height="635" alt="<img width="1240" height="634" alt="Captura de pantalla 2026-08-30 193502" src="https://github.com/user-attachments/assets/4a5433d3-bb79-4c29-b696-85a1e1d0f00c" />" />
+<img width="1243" height="635" alt="<img width="1246" height="459" alt="Captura de pantalla 2026-08-30 193514" src="https://github.com/user-attachments/assets/86aaaddc-b53c-446b-b2a3-f6ed86dd5fdd" />" />
+<img width="1241" height="635" alt="<img width="1241" height="525" alt="Captura de pantalla 2026-08-30 193527" src="https://github.com/user-attachments/assets/4981eb45-9519-4d44-822e-daff5c258e77" />" />
 
 ## Tecnologías
 
